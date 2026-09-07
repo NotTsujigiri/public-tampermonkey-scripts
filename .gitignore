@@ -1,0 +1,21 @@
+# Explicit allowlist: add each new public script deliberately.
+/*
+!/.gitignore
+!/README.md
+!/LICENSE
+!/youtube-rotate/
+/youtube-rotate/*
+!/youtube-rotate/README.md
+!/youtube-rotate/CHANGELOG.md
+!/youtube-rotate/youtube-rotate.user.js
+!/youtube-rotate/test.html
+!/youtube-rotate/test.js
+!/youtube-rotate/serve.cjs
+
+!/.github/
+/.github/*
+!/.github/ISSUE_TEMPLATE/
+/.github/ISSUE_TEMPLATE/*
+!/.github/ISSUE_TEMPLATE/01-bug.md
+!/.github/ISSUE_TEMPLATE/02-feature.md
+!/.github/ISSUE_TEMPLATE/03-script-request.md

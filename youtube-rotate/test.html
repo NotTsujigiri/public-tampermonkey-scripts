@@ -1,0 +1,10 @@
+<!doctype html><html lang="en"><meta charset="utf-8">
+<meta http-equiv="Content-Security-Policy" content="require-trusted-types-for 'script'">
+<title>YouTube Rotate verification</title>
+<style>
+body{font:16px system-ui;background:#17191d;color:#fff;margin:30px}#movie_player{position:relative;width:800px;height:450px;background:#000}.html5-video-container{position:relative;height:0}video{position:absolute;background:linear-gradient(45deg,#047e98,#e89d46)}.ytp-right-controls{position:absolute;bottom:0;right:0;display:flex;height:48px}.ytp-right-controls-right{display:flex}.ytp-button{border:0;background:transparent;color:white}li{margin:8px}
+</style><h1>Regression tests — YouTube Rotate</h1>
+<p>Local fixture reproducing nested controls and a zero-height video wrapper observed on YouTube.</p>
+<div id="movie_player"><div class="html5-video-container"><video class="html5-main-video" style="width:800px;height:450px;left:0px;top:0px"></video></div><div class="ytp-right-controls"><div class="ytp-right-controls-left"></div><div class="ytp-right-controls-right"><button class="ytp-fullscreen-button ytp-button">Fullscreen</button></div></div></div>
+<ol id="results"></ol><strong id="summary">Running tests…</strong>
+<script src="youtube-rotate.user.js"></script><script src="test.js"></script></html>
