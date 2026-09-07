@@ -2,6 +2,8 @@
 
 Public Tampermonkey userscripts released under the [MIT license](LICENSE).
 
+[Install from Greasy Fork](https://greasyfork.org/en/scripts/594713-youtube-rotate-video-90)
+
 ## Scripts
 
 | Script | Description | Documentation |

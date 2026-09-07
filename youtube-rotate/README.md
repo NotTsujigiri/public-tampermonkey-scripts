@@ -10,6 +10,8 @@ A small userscript that adds two rotation buttons to the desktop YouTube player,
 
 ## Install
 
+[Install from Greasy Fork](https://greasyfork.org/en/scripts/594713-youtube-rotate-video-90) (recommended).
+
 [Install version 1.3.1](https://raw.githubusercontent.com/NotTsujigiri/public-tampermonkey-scripts/v1.3.1/youtube-rotate/youtube-rotate.user.js) with your userscript manager enabled, then confirm installation in the manager. If the source code opens instead, use the manual method below.
 
 Use a userscript manager in your browser. Create a new script, replace its contents with [youtube-rotate.user.js](youtube-rotate.user.js), save, and reload YouTube. Keep only one copy enabled.
