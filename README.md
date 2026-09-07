@@ -32,4 +32,10 @@ Issues are public: do not post credentials, personal data or confidential inform
 
 This project was developed with **ChatGPT (OpenAI)** assistance for code, fixes and documentation, then tested and refined with human feedback.
 
+Want to make something similar yourself? Try the Codex desktop app, which was used for this project. For a small userscript, a few clear prompts and follow-up feedback may be enough to get started: describe the website, what you want to change, and what should happen. Test the result in your browser and ask for adjustments; the effort needed will depend on the script and website.
+
+[Codex on the web](https://learn.chatgpt.com/docs/cloud) can also help write and modify scripts in a connected repository. That can cover the coding work, but you should still install and test the userscript in your own browser; we have not validated the entire workflow using the web version alone.
+
+As of September 7, 2026, **Codex is available with a ChatGPT Free account**, subject to usage limits; **ChatGPT Plus is not required to get started**. Available features and limits vary by plan and may change. See [OpenAI's current plans and usage information](https://learn.chatgpt.com/docs/pricing).
+
 Independent project, not affiliated with Tampermonkey, YouTube or OpenAI.
