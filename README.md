@@ -18,7 +18,7 @@ The YouTube script has been tested in real-world use on **Firefox only**. Additi
 
 Open an issue to report a bug, suggest a feature or request a new script. Please check existing issues first.
 
-I am open to **paid and unpaid Tampermonkey script requests**, depending on interest, complexity and availability. Describe the target website and desired result using the script-request template. Scope, timing and any payment must be agreed before work starts. Submitting a request does not guarantee acceptance.
+I am open to **paid and unpaid Tampermonkey script requests**, depending on interest, complexity and availability. Describe the target website and desired result using the script-request template. Scope, timing and payment (if any) must be agreed before work starts. Submitting a request does not guarantee acceptance.
 
 Issues are public: do not post credentials, personal data or confidential information.
 
